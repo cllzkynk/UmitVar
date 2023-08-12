@@ -27,12 +27,15 @@ public class Variable {
 		 double x=94181814894846.5;
 		 
 		
-		 char harf='a';
+		 boolean a=true ; // primitive veri tipi
+		 boolean b=false ;
+		 
+		 char harf  =    'a';
 		 char deneme=' ';
 		 
 		 String yazi="Alcaklara kar yagmis usudun mu leylim ammman aman";
 		 
-		 String str="price_house";
+		 String str="price_house";  //Nonprimitive veri tipi
 		 
 		 
 		 System.out.println(yazi);
